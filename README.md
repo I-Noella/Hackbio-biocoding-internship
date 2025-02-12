@@ -1,4 +1,4 @@
-# Hackbio-bio coding-internship
+# Hackbio-coding-internship
 Stage Zero Task - Hackbio Coding Internship
 
 Project Description
